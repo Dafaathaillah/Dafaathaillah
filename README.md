@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dafaathaillah&color=dc143c)
 <!--
-*arhamizza/arhamizza* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*dafaathaillah/dafaathaillah* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaathaillah&theme=algolia" alt="arhamizza"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaathaillah&theme=algolia" alt="dafaathaillah"  /></p>
 
 <hr>
 <p align="center">
