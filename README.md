@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 <br><br><br><br><br>
 
 <p align="left">
+### 🤝🏻 &nbsp;Connect with Me
+<br><br>
 <a href="mailto:dafaathaillah@gmail.com"><img src="https://img.shields.io/badge/-dafaathaillah@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
