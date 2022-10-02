@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafaathaillah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="mailto:dafaathaillah@gmail.com"><img src="https://img.shields.io/badge/-dafaathaillah@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
