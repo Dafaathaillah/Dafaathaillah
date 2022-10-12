@@ -8,8 +8,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp; -->
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
 
