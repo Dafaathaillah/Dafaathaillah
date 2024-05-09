@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <p align="left">
-<a href="mailto:dafaathaillah@gmail.com"><img src="https://img.shields.io/badge/-dafaathaillah@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dafaathaillah@gmail.com"><img src="https://img.shields.io/badge/-dafabintang76@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
