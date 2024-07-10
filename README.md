@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working in PT PUTRA PERKASA ABADI - ICT TECHNICIAN
+- 🌱 I’m currently learning in POLITEKNIK NEGERI MALANG
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaathaillah&theme=algolia" alt="dafaathaillah"  /></p>
 
