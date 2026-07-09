@@ -1,49 +1,186 @@
-### Hi there 👋 I am Dafa Bintang Athaillah
-
-### 🛠 &nbsp;Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-
-
-![](https://komarev.com/ghpvc/?username=dafaathaillah&color=dc143c)
-<!--
-*dafaathaillah/dafaathaillah* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-- 🔭 I’m currently working in PT PUTRA PERKASA ABADI - ICT TECHNICIAN
-- 🌱 I’m graduated from POLITEKNIK NEGERI MALANG - INFORMATICS TECHNOLOGY
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dafaathaillah&theme=algolia" alt="dafaathaillah"  /></p>
-
-<hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafaathaillah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Dafa%20Bintang%20Athaillah&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=ICT%20Technician%20|%20Laravel%20Developer%20|%20Vue%20Developer&descAlignY=60"/>
+</p>
 
-<br>
-<br>
-<hr>
-<p align="left">
-<a href="mailto:dafaathaillah@gmail.com"><img src="https://img.shields.io/badge/-dafabintang76@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<h1 align="center">Hi 👋, I'm Dafa Bintang Athaillah</h1>
+
+<h3 align="center">
+ICT Technician • Laravel Developer • Vue Developer • Flutter Enthusiast
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=ICT+Technician+-+Software+Engineer;Laravel+Developer;Vue.js+Developer;Flutter+Developer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://instagram.com/dafaathaillah">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:dafabintang76@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dafaathaillah&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 💼 ICT Technician - Software Engineer at **PT Putra Perkasa Abadi**
+- 🎓 Graduate of **Politeknik Negeri Malang**
+- 🌱 Currently learning **Docker**, **DevOps**, and **Cloud Computing**
+- 💻 Passionate about **Laravel**, **Vue.js**, **Flutter**, and **Networking**
+- 🚀 Building enterprise applications and automation systems
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,react,flutter,js,html,css,bootstrap,mysql,linux,git,github,vscode,docker&perline=8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaathaillah&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dafaathaillah&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dafaathaillah&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dafaathaillah&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dafaathaillah/dafaathaillah/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Current Projects
+
+| Project | Description |
+|---------|-------------|
+| 📦 Inventory Management | Enterprise Inventory System |
+| 📝 Complaint Management | IT Helpdesk System |
+| 📊 Inspection Dashboard | Monitoring Equipment |
+| 📱 Mobile Inspection | Flutter Mobile Application |
+
+---
+
+# 💻 Current Stack
+
+```text
+Backend      Laravel 11
+Frontend     Vue 3 + TailwindCSS
+Database     MySQL
+Mobile       Flutter
+Server       Ubuntu + Nginx
+API          REST API
+Versioning   Git & GitHub
+```
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&theme=transparent"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:dafabintang76@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/dafaathaillah">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/dafa-bintang-athaillah-ba2a89334/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
 </p>
