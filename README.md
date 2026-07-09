@@ -60,15 +60,21 @@ ICT Technician • Laravel Developer • Vue Developer • Flutter Enthusiast
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dafaathaillah&show_icons=true&theme=tokyonight" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafaathaillah&layout=compact&theme=tokyonight"/>
+</td>
 
-</p>
+<td>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dafaathaillah&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -141,7 +147,7 @@ Versioning   Git & GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dafaathaillah&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=dafaathaillah&show_icons=true&theme=transparent"/>
 
 </p>
 
