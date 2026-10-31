@@ -52,24 +52,6 @@ A web-based operational management platform designed to streamline expedition ac
 
 🔗 [View Repository](https://github.com/Dafaathaillah/pelaporan-ekspedisi)
 
-### 🛒 POS OPS Console — AZRIL CELL
-
-**Laravel · Blade · Tailwind CSS · Alpine.js · ApexCharts**
-
-A modern point-of-sale and business operations platform focused on simplifying retail management through an intuitive administrative interface.
-
-**Project Highlights**
-- Retail operations and transaction management.
-- Business performance dashboards.
-- Interactive data visualization.
-- Responsive administrative interfaces.
-- Modular application architecture.
-- User-friendly operational workflows.
-
-**Engineering Focus:** Full-stack development, business process digitalization, dashboard design, and frontend architecture.
-
-*Repository / Live Demo: To be added.*
-
 ### 🌐 Network Monitoring & Infrastructure Management
 
 **Laravel · Vue.js · Go · PostgreSQL · TimescaleDB · Redis · SNMP**
