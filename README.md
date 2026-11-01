@@ -6,7 +6,7 @@ I build scalable, reliable, and maintainable software solutions that solve real-
 
 My work focuses on **enterprise applications, backend systems, API integration, IT automation, and network monitoring**, with hands-on experience across development, database management, and deployment.
 
-📍 Indonesia
+📍 Kalimantan Selatan, Indonesia
 
 ---
 
